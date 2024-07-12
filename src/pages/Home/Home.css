@@ -22,6 +22,9 @@
   font-style: italic;
   margin-bottom: 20px;
 }
+.home{
+  overflow-x: hidden;
+}
 
 
 

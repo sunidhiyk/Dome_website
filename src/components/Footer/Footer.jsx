@@ -18,7 +18,7 @@ const Footer = () => {
         <li>Contact Us</li>
         <li>Jobs</li>
       </ul>
-      <p className="copyright-text">2024- Tudum</p>
+      <p className="copyright-text">2024- Dome</p>
     </div>
   );
 };
